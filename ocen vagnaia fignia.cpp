@@ -5,15 +5,9 @@
  
  int main
  {
-	 std::cout << "hello world!"
-	 std::cout << "/n"
-	 std::cout << "(*___*)"
-
-	 
-	 std::cout << "y menya malo idei"
+	 std::cout << "alividerci world\n"
+	 std::cout << "~(-___-)~"
 	 
 	 
 	 
-	 
-
  }
