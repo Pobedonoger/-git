@@ -3,9 +3,9 @@
  #include <iostream>
  #include <string>
  
- using naspace std;
- 
  int main
  {
-	 cout << "hello world!"
+	 std::cout << "hello world!"
+	 std::cout << "/n"
+	 std::cout << "(*___*)"
  }
