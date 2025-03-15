@@ -5,6 +5,11 @@
  
  int main
  {
-	 std::cout << "hello world!\n"
+	 std::cout << "hello world!"
+	 
 	 std::cout << "y menya malo idei"
+	 
+	 
+	 
+	 
  }
