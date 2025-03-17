@@ -9,5 +9,5 @@
 	 std::cout << "~(-___-)~"
 	 
 	 
-	 
+	 std::cout << "Ya vnes izmenenia"
  }

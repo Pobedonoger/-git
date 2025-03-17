@@ -12,6 +12,8 @@
 	 
 	 std::cout << "y menya malo idei"
 	 
+	 std::cout << "Soboleznuju"
+	 
 	 
 	 
 	 
